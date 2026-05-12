@@ -5,13 +5,14 @@ Chaque TP explore un algorithme ou une technique différente, implémentée en P
 
 ## 📚 Contenu
 
-| TP | Thème | Algorithme |
-|----|-------|------------|
-| TP1 | Régression Linéaire | Linear Regression |
-| TP2 | Régression Logistique | Logistic Regression |
-| TP3 | Classification | KNN / SVM |
-| TP4 | Arbres de décision | Decision Tree |
-| TP5 | Clustering | K-Means |
+| TP | Thème 
+|----|-------
+| TP | TP_Appr_Supervisé_Classification 
+| TP1 |  Exploration des données  
+| TP2 | Prétraitement des données
+| TP3 | Appr_Supervisé_Classification
+| TP4 | Régression 
+| TP5 | Clustering 
 
 ## 🛠️ Technologies utilisées
 
